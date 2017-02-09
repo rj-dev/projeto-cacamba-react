@@ -5,11 +5,11 @@
   },
   {
     "idCacamba": 2,
-    "statusCacamba": 2
+    "statusCacamba": 0
   },
   {
     "idCacamba": 3,
-    "statusCacamba": 1
+    "statusCacamba": 0
   },
   {
     "idCacamba": 4,
@@ -17,18 +17,18 @@
   },
   {
     "idCacamba": 5,
-    "statusCacamba": 0
+    "statusCacamba": 1
   },
   {
     "idCacamba": 6,
-    "statusCacamba": 0
+    "statusCacamba": 1
   },
   {
     "idCacamba": 7,
-    "statusCacamba": 0
+    "statusCacamba": 1
   },
   {
     "idCacamba": 8,
-    "statusCacamba": 2
+    "statusCacamba": 1
   }
 ]
